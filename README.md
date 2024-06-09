@@ -15,5 +15,5 @@ Top Customer Segment<br/>
 Loyal Customers<br/>
 Immediate Attention<br/>
 At Risk & Immediate Attention<br/>
-We created a target campaign to re-engage our at-risk customers with incentives. Further analyze our top customers/loyal customers to maximize earnings.
+We created a target campaign to re-engage our at-risk customers with incentives. Further analyze our top customers/loyal customers to maximize earnings.<br/><br/>
 ![image](https://github.com/Baishaki-sfdc/Customer-Segmentation/assets/133767570/f840f8ab-90c1-4322-b5a3-1bc6169e6c70)
