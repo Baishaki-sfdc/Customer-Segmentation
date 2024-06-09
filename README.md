@@ -4,8 +4,8 @@
 Management wants to Rank and Group Customers<br/>
 Additional Requests:<br/>
 • Identify good and bad segments<br/>
-• Who are the most valuable customers?
-Tools used:
+• Who are the most valuable customers?<br/>
+## Tools used:
 Excel,Pivot Table.
 Dataset:<br/>
 E-commerce dataset for on online retail store.<br/>
