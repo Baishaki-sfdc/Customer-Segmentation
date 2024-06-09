@@ -2,8 +2,8 @@
 
 ## Objective:
 Management wants to Rank and Group Customers<br/>
-Additional Requests:
-• Identify good and bad segments
+Additional Requests:<br/>
+• Identify good and bad segments<br/>
 • Who are the most valuable customers?
 Customer Segmentation
 ### Technique:
