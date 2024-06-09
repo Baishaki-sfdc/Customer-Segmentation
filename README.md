@@ -6,7 +6,8 @@ Additional Requests:<br/>
 • Identify good and bad segments<br/>
 • Who are the most valuable customers?<br/>
 ## Tools used:
-Excel,Pivot Table.
+Excel,Pivot Table.<br/>
+
 Dataset:<br/>
 E-commerce dataset for on online retail store.<br/>
 
